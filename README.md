@@ -3,7 +3,7 @@ Hi there, I'm Giovani
 </h3>
 
 <h2 align="center">
-I'm a backend developer.
+I'm a backend developer expanding skills from PHP/Laravel to Rust & Go.
 </h2>
 
 <p align="center">
@@ -31,8 +31,10 @@ I'm a backend developer.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/giovani-henrique-braz-nunes-232007264/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Giovani | LinkedIn" width="21px" target="_blank"/></a>
-</br>
+<a href="https://www.linkedin.com/in/giovani-henrique-braz-nunes-232007264/" target="_blank" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px" align="center" />
+  <span style="color: #fff; vertical-align: middle;">LinkedIn</span>
+</a>
 
 ## 💼 Technical Skills
 
