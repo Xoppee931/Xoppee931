@@ -10,10 +10,8 @@ I'm a backend developer expanding skills from PHP/Laravel to Rust & Go.
     <img align="center" src="https://komarev.com/ghpvc/?username=Xoppee931&color=green&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 </br>
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <p align="center">
+<a href="https://github.com/piyushsuthar/github-readme-quotes" align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-    </p>
 </a>
 
 ## 🔭 I'm currently working on
