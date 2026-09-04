@@ -22,7 +22,7 @@ I'm a backend developer expanding skills from PHP/Laravel to Rust & Go.
 - Rust
 - GoLang
 - Data Structures & Algorithms
-- English and Russian
+- English and Russian and 中文
 - GitHub Actions
 
 ### 🤝 Connect with me:
