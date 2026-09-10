@@ -14,15 +14,15 @@ I'm a backend developer expanding skills from PHP/Laravel to Rust & Go.
 
 ## 🔭 I'm currently working on
 
-- Rust Projects
+- Chat Platform
 - Old Projects
 
 ## 🌱 I'm currently learning
 
-- Rust
+- C++
 - GoLang
 - Data Structures & Algorithms
-- English and Russian and 中文
+- English and Russian
 - GitHub Actions
 
 ### 🤝 Connect with me:
