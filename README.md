@@ -15,7 +15,7 @@ I'm a backend developer expanding skills from PHP/Laravel to Rust & Go.
 ## 🔭 I'm currently working on
 
 - Chat Platform
-- Old Projects
+- Python Library [FynTool](https://github.com/FynChat/FynTool)
 
 ## 🌱 I'm currently learning
 
